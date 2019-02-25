@@ -5,22 +5,22 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
-		System.out.println("a修改了代码");
+        System.out.println("a修改了代码");
     }
-	
-	@Test
+
+    @Test
     public void test1() {
         // test方法1
-		System.out.println("a修改了代码2");
-		int a = 10;
-		
+        System.out.println("a修改了代码2");
+        int a = 10;
+
     }
-	
-	@Test
+
+    @Test
     public void test2() {
         // test方法2
-		System.out.println("b修改了代码2");
-		System.out.println("b修改了代码2");
-		int b = 20;
+        System.out.println("b修改了代码2");
+        System.out.println("b修改了代码2");
+        int b = 20;
     }
 }
