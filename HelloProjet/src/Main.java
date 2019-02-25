@@ -16,5 +16,6 @@ public class Main {
 	@Test
     public void test2() {
         // test方法2
+		System.out.println("b修改了代码2");
     }
 }
