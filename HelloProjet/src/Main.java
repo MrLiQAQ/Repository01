@@ -32,5 +32,6 @@ public class Main {
     @Test
     public void test002(){
         System.out.println("测试02");
+        System.out.println("aaa");
     }
 }
