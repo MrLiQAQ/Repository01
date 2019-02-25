@@ -22,10 +22,10 @@ public class Main {
         int b = 20;
     }
 
-    //01
+    //01修改
     @Test
     public void test001(){
-        System.out.println("测试01");
+        System.out.println(1+1);
     }
 
     //02
