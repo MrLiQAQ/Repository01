@@ -25,13 +25,13 @@ public class Main {
     //01修改
     @Test
     public void test001(){
-        System.out.println(1+1);
+        System.out.println(1+1+1);
     }
 
     //02
     @Test
     public void test002(){
         System.out.println("测试02");
-        System.out.println("aaa");
+        System.out.println(1111);
     }
 }
