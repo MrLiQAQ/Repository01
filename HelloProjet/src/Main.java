@@ -12,7 +12,6 @@ public class Main {
     public void test1() {
         System.out.println("a修改了代码2");
         int a = 10;
-        System.out.println("测试01修改");
 
     }
 
@@ -23,8 +22,15 @@ public class Main {
         int b = 20;
     }
 
+    //01
     @Test
     public void test001(){
         System.out.println("测试01");
+    }
+
+    //02
+    @Test
+    public void test002(){
+        System.out.println("测试02");
     }
 }
