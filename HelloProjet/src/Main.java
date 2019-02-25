@@ -21,5 +21,6 @@ public class Main {
         // test方法2
 		System.out.println("b修改了代码2");
 		System.out.println("b修改了代码2");
+		int b = 20;
     }
 }
