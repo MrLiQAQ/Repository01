@@ -23,4 +23,12 @@ public class Main {
 
     }
 
+    //02
+    @Test
+    public void test002() {
+        System.out.println("a修改了代码2");
+        int a = 10;
+
+    }
+
 }
