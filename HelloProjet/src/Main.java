@@ -5,22 +5,22 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
-        System.out.println("aĞŞ¸ÄÁË´úÂë");
+        System.out.println("aä¿®æ”¹äº†ä»£ç ");
     }
 
     @Test
     public void test1() {
-        // test·½·¨1
-        System.out.println("aĞŞ¸ÄÁË´úÂë2");
+        // testï¿½ï¿½ï¿½ï¿½1
+        System.out.println("aä¿®æ”¹äº†ä»£ç 2");
         int a = 10;
 
     }
 
     @Test
     public void test2() {
-        // test·½·¨2
-        System.out.println("bĞŞ¸ÄÁË´úÂë2");
-        System.out.println("bĞŞ¸ÄÁË´úÂë2");
+        // testï¿½ï¿½ï¿½ï¿½2
+        System.out.println("bä¿®æ”¹äº†ä»£ç 2");
+        System.out.println("bä¿®æ”¹äº†ä»£ç 2");
         int b = 20;
     }
 }
